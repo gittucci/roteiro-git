@@ -1,2 +1,3 @@
 # roteiro-git
-# esta é a segunta tentativa, a 1a foi para a main
+# este é um gua de aprendizado, ou melhor, relembrar e registrar o que já foi aprendido
+# versão 2
